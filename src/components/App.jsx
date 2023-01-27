@@ -1,4 +1,4 @@
-import Modal from 'Modal/Modal';
+import Modal from './Modal/Modal';
 import React, { useState } from 'react';
 import './App.css';
 export const App = () => {
